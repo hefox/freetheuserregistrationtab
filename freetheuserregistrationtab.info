@@ -1,0 +1,4 @@
+name = Free the user registration tab
+description = Makes the user registration form go by itself in to it's own little corner (aka not have any tabs)
+package = Users
+core = 6.x

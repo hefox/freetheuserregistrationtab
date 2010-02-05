@@ -1,0 +1,5 @@
+<?php
+
+function freetheuserregistrationtab_menu_alter(&$items){
+  $items['user/register']['type']  = MENU_CALLBACK;
+}
